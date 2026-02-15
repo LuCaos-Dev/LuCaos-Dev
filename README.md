@@ -6,5 +6,8 @@ Results-driven International Affairs professional with skills in Data Science. F
 
 I’m currently working on CJ Brasil.
 
-## How to reach me
-https://www.linkedin.com/in/lucas-gabriele-abreu/
+## How to reach me 🌎
+<a href="https://www.linkedin.com/in/lucas-gabriele-abreu/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
+</a>
+
