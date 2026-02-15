@@ -1,7 +1,8 @@
 ## Make yourself at home👋
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&speed=40&pause=6000&lines=+I'm+Lucas+Abreu.+Data+Scientist+from+Brazil)](https://git.io/typing-svg)
 
-<!--
+## Expertise 🇧🇷
+opa
 **LuCaos-Dev/LuCaos-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
